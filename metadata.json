@@ -1,0 +1,6 @@
+{
+  "name": "Leitor de Horário Escolar",
+  "description": "Extrator e visualizador inteligente de horários escolares a partir de PDFs do Urânia, com visualização interativa da grade, exportação em JSON/ICS e mapeamento de matérias e professores.",
+  "permissions": [],
+  "capabilities": []
+}
